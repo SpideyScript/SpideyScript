@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Anshu 👋
 
-<!--
-**SpideyScript/SpideyScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer • System Builder • Computer Science Student**
 
-Here are some ideas to get you started:
+Designing software, building platforms, and exploring how technology actually works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I enjoy building software and learning the deeper engineering behind systems.
+
+My interests sit at the intersection of:
+
+• Full-stack development
+• Software architecture
+• UI/UX focused product design
+• Developer tools and platforms
+
+I like turning complex ideas into systems people can actually build and use.
+
+---
+
+## Current Focus
+
+• Mobile app development
+• Developer tools
+• Scalable backend systems
+• Learning system design
+• Building real-world projects
+
+---
+
+## Tech Stack
+
+### Languages
+
+* Dart
+* JavaScript
+* Python
+
+### Frontend
+
+* Flutter
+* HTML
+* CSS
+
+### Backend
+
+* Node.js
+* Firebase
+
+### Tools
+
+* Git
+* VS Code
+* Android Studio
+
+---
+
+## Development Activity
+
+```bash
+> whoami
+Anshu
+
+> role
+Developer
+Computer Science Student
+
+> focus
+Building mobile apps
+Learning system design
+Creating useful software
+```
+
+---
+
+## Philosophy
+
+Good software solves problems.
+Great software also teaches the developer something new.
+
+---
+
+⭐ *Always building, always learning.*
